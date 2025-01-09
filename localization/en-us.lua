@@ -1477,6 +1477,13 @@ return {
 					"deck on at least",
 					"{V:1}Black Stake{} difficulty",
 				},
+			},	
+			j_csau_myhouse = {
+				name = "MyHouse.wad",
+				text = {
+					"Applies between {X:mult,C:white}X#1# {} and {X:mult,C:white}X#2# {} mult",
+					"everytime a {C:attention}Full House{} is played"
+				},
 			},
 		},
 		Spectral = {

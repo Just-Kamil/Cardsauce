@@ -155,6 +155,7 @@ local conf_cardsauce = {
 		'koffing',
 		'frich',
 		'bunji',
+		'myhouse',
 	},
 	consumablesToLoad = {
 		'quixotic',
