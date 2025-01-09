@@ -156,6 +156,7 @@ local conf_cardsauce = {
 		'frich',
 		'bunji',
 		'myhouse',
+		'cbtwizard',
 	},
 	consumablesToLoad = {
 		'quixotic',

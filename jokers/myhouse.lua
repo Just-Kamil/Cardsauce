@@ -27,7 +27,6 @@ function jokerInfo.calculate(self,card,context)
         if context.scoring_name == "Full House" then
             local calculated_x_mult = pseudorandom("myhouse",x_mult,x_mult2)
             return {
-                message = localize{type="varaible", key="x_mult", vars={calculated_x_mult}},
                 x_mult_mod = calculated_x_mult
             } 
         end

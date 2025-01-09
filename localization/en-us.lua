@@ -1491,6 +1491,13 @@ return {
 					"everytime a {C:attention}Full House{} is played"
 				},
 			},
+			j_csau_cbtwizard = {
+				name = "CBT Wizard",
+				text = {
+					"{X:mult,C:white}X#1#{} Mult",
+					"Gain {C:attention}$#2#{} at the end of round"
+				}
+			}
 		},
 		Spectral = {
 			c_csau_quixotic = {
