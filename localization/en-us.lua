@@ -715,6 +715,12 @@ return {
 					"{E:1}Burdrehnar{}",
 				},
 			},
+			guestartist22 = {
+				name = "Coding",
+				text = {
+					"{E:1}Just Kamil{}",
+				}
+			},
 			rogernote = {
 				name = "Conversion Table",
 				text = {
@@ -1479,7 +1485,7 @@ return {
 				},
 			},	
 			j_csau_myhouse = {
-				name = "MyHouse.wad",
+				name = "Myhouse.wad",
 				text = {
 					"Applies between {X:mult,C:white}X#1# {} and {X:mult,C:white}X#2# {} mult",
 					"everytime a {C:attention}Full House{} is played"

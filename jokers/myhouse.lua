@@ -15,7 +15,7 @@ local jokerInfo = {
 }
 
 function jokerInfo.loc_vars(self, info_queue, card)
-    info_queue[#info_queue+1] = {key = "guestartistXX", set = "Other"}
+    info_queue[#info_queue+1] = {key = "guestartist22", set = "Other"}
     -- From my testing, pseudorandom only generates integers then appends floats, adding x_mult here shows true range
     return { vars = {card.ability.extra.x_mult, (card.ability.extra.x_mult2 + card.ability.extra.x_mult)} }
 end
